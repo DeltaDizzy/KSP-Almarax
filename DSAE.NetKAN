@@ -1,0 +1,10 @@
+{
+    "spec_version" : 1,
+    "identifier"   : "DSAE",
+    "$kref"        : "#/ckan/github/DeltaDizzy/<repo>",
+    "license"      : "All Rights Reserved",
+    "ksp_version"  : "1.4",
+    "resources": {
+        "homepage": "<url>"
+    }
+}
