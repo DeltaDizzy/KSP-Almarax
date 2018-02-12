@@ -3,8 +3,14 @@
     "identifier"   : "DSAE",
     "$kref"        : "#/ckan/github/DeltaDizzy/DoubleDelta-Spaceships-and-Astronautical-Engineering",
     "license"      : "All Rights Reserved",
+    "name"         : "DSAE is a part pack. Thats basically it.",
+    
     "ksp_version"  : "1.4",
     "resources": {
         "homepage": "<url>"
-    }
+    },
+    "depends"     : [
+        { "name": "ModuleManager"},
+        { "name": "B9PartSwitch"}
+    ]
 }
