@@ -1,7 +1,7 @@
 {
     "spec_version" : 1,
     "identifier"   : "DSAE",
-    "$kref"        : "#/ckan/github/DeltaDizzy/DoubleDelta-Spaceships-and-Astronautical-Engineering",
+    "$kref"        : "#/ckan/github/DeltaDizzy/Delta-Spac-and-Astrodynamic-Engineering_PartCatalog",
     "license"      : "All Rights Reserved",
     "name"         : "DSAE is a part pack. Thats basically it.",
     
