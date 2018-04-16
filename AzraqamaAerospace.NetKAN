@@ -1,7 +1,7 @@
 {
     "spec_version" : 1,
-    "identifier"   : "DSAE",
-    "$kref"        : "#/ckan/github/DeltaDizzy/Delta-Space-and-Astrodynamic-Engineering_PartCatalog",
+    "identifier"   : "Azraqama Aerospace",
+    "$kref"        : "#/ckan/github/DeltaDizzy/Azraqama-Aerospace",
     "license"      : "All Rights Reserved",
     "name"         : "DSAE is a part pack. Thats basically it.",
     
