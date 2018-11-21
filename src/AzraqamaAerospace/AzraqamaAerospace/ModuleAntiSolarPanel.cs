@@ -162,7 +162,7 @@ namespace GeodexInsaneTech
                 }
 
                 // Use the flow rate
-                flowRate = (Single)(resHandler.UpdateModuleResourceOutputs(_flowRate) * flowMult);
+                flowRate = (Single)(resHandler.UpdateModuleResourceOutputs(_flowRate) * -flowMult);
             }
 
             public override void LateUpdate()
