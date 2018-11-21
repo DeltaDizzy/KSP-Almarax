@@ -3,15 +3,18 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-namespace AzraqamaAerospace
+namespace GeodexInsaneTech
 {
-    public class ModuleAntiSolarPanel : ModuleDeployableSolarPanel
+    public class ModuleInverseSolarPanel : ModuleDeployableSolarPanel
     {
-        private void Awake()
+        public override void OnStart(StartState state)
         {
             //find sun
-            List<CelestialBody> sunBodies = new List<CelestialBody>();
-            sunBodies.Add(FlightGlobals.Bodies.Find(s => s.));
+            CelestialBody sunStar = FlightIntegrator.sunBody;
+        }
+        private getFlux(CelestialBody fluxBody)
+        {
+            private double sunFlux =  
         }
 
     }

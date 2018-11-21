@@ -7,8 +7,8 @@
     <ProjectGuid>{1C5ED7B7-5EF8-4E06-B4A1-B95D5AC69421}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>AzraqamaAerospace</RootNamespace>
-    <AssemblyName>AzraqamaAerospace</AssemblyName>
+    <RootNamespace>GeodexInsaneTech</RootNamespace>
+    <AssemblyName>GeodexInsaneTech</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -16,7 +16,7 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>bin\Debug\</OutputPath>
+    <OutputPath>..\..\..\..\..\..\Desktop\Plugin Output\GeodexInsaneTech\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
